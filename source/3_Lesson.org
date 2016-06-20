@@ -11,7 +11,7 @@
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/MarcScott/9-SC-Alarm">Fork me on GitHub</a>
+      <a href="https://github.com/stsb11/9-SC-Alarm">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">
@@ -147,6 +147,10 @@ file:img/analogueCirc8.png
 :HTML_CONTAINER_CLASS: badge
 :END:
 - You should now be able to complete your circuit.
+- This tutorial can help if you're stuck...
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpvXlB8OvVY" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
 - To recap - you should have a switch and an LDR on the inputs of the chip, and two LEDs and the transistor that controls the buzzer connected to the outputs.
 - Screenshot your finished circuit when it is completed.
 

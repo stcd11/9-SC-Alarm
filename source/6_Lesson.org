@@ -11,7 +11,7 @@
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/MarcScott/9-SC-Alarm">Fork me on GitHub</a>
+      <a href="https://github.com/stsb11/9-SC-Alarm">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">
@@ -109,5 +109,7 @@
   7. The alarm then waits for the light level to increase significantly.
   8. If the light level increases, the buzzer sounds and the LEDs flash on and off
   9. Holding down the button for a further three seconds will turn off the alarm.
-
-
+- If you're struggling to complete the task, this video tutorial will help:
+#+BEGIN_HTML
+<iframe width="590" height="393" src="https://www.youtube.com/embed/iY_S_RvKmXE" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
