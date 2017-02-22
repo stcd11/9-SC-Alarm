@@ -6,7 +6,7 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
 
 #+TITLE: The Drawer Alarm
-#+AUTHOR: Marc Scott
+#+AUTHOR: Stephen
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
@@ -120,3 +120,47 @@
 - Sketch designs for two different housings and label them. 
 - They’ll still need to have the switch on the front, somewhere for the LDR and two LEDs, but how you design it is up to you. Indicate approximate dimensions. 
 - Where will the PCB go? What holds it together? What’s it made from? Where do the batteries go?
+** 4. Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- When products are designed for commercial release, it is essential they are tested.
+- There are different types of test:
+  - Functional testing ensure that the product does what it should. E.g. A microwave oven should stop emitting microwaves when the time set has run out.
+  - Performance testing checks that a product performs to a particular standard. E.g. A burlar alarm sensor should be able to detect an intruder from at least 5m away.
+  - Safety testing ensures that the product is safe to use. E.g. A glass should be inspected to ensure there are no jagged edges.
+  - Visual inspection will ensure that the product looks correct. E.g. In a box of eggs, none should be broken.
+  - Durability testing will see if a product will break easily. E.g. A vacuum cleaner should be able to be dropped onto a hard floor from 10cm and still work properly. 
+- Answer these questions:
+  - Provide at least two reasons why it is important to test an electronic product before mass-producing and selling it.
+  - Imagine you were a product test engineer for the drawer alarm. Describe four different tests you could conduct to make sure its suitable to be sold. 
+  - For each test, state the type of test (see above) that you are describing.
+** 5. Material world
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- We tend to use MDF and acrylic in School for much of our making
+- We could use lots of other things too, like steel. 
+- Materials can be grouped into different types, such as:
+  1. [[https://en.wikipedia.org/wiki/Engineered_wood][Man-made boards]]
+  2. [[https://en.wikipedia.org/wiki/Hardwood][Hardwoods]]
+  3. [[https://en.wikipedia.org/wiki/Softwood][Softwoods]]
+  4. [[https://simple.wikipedia.org/wiki/Thermoplastic][Thermoplastics]]
+  5. [[https://simple.wikipedia.org/wiki/Thermosetting_polymer][Thermosetting polymers]]
+  6. [[http://www.bbc.co.uk/schools/gcsebitesize/design/electronics/materialsrev3.shtml][Ferrous]] metals
+  7. [[http://www.bbc.co.uk/schools/gcsebitesize/design/electronics/materialsrev3.shtml][Non-ferrous]] metals
+- Write a brief definition of each of the above.
+- Provide an example for each. The first one is done for you. E.g.
+#+BEGIN_QUOTE
+A man-made board is a material made by combining wood with something else (e.g. glue). An example of this is MDF which is made by mixing sawdust and glue together, then pressing it into flat sheets.
+#+END_QUOTE
+** 6. Evaluate it
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- You should now be at the end of this project. 
+- To finish up, you will write a short evaluation of your work during this project.
+- Write a short evaluation of your performance, considering each of the following:
+  - What went well? E.g. Your soldering, your programming work, PCB design?
+  - What didn't do so well? E.g. Struggled with coding, didn't get the product finished.
+  - What will you do differently in future projects to improve your performance? E.g. Time management, practice soldering, avoid distraction, etc.
