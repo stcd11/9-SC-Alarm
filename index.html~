@@ -140,7 +140,7 @@ for the JavaScript code in this tag.
 <h1 class="title">The Drawer Alarm</h1>
 <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-        <a href="https://github.com/stcd11/9-SC-Alarm">Fork me on GitHub</a>
+        <a href="https://github.com/stsb11/9-SC-Alarm">Fork me on GitHub</a>
     </div>
 </div>
 
@@ -187,7 +187,7 @@ for the JavaScript code in this tag.
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="validation"></p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>
