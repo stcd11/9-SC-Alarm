@@ -100,7 +100,6 @@
 :END:
 - Like many of the projects you have completed in the past, this one will use a GENIE C08 micro-controller.
 - GENIE chips can receive both analogue and digital signals.
-- *You will find the LDR under 'sensors' in the drop down menu.*
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
@@ -114,6 +113,7 @@
 :END:
 - Let's build a simple circuit to try and get a GENIE chip to detect an analogue signal.
 - Use CircuitWizard to build the circuit shown below
+- *You will find the LDR under 'sensors' in the drop down menu.*
 [[file:img/analogueCirc1.png]]
 - This circuit has an LDR connected to the analogue input of the GENIE chip.
 - A light dependent resistor is a resistor that responds to light.
